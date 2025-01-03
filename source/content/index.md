@@ -1,7 +1,4 @@
 ---
-title: My GitHub Pages Notebook!
+title: 주빛나무 개발 블로그
 ---
-
-Hello world!
-
-Write some words here!
+안녕하세요!
