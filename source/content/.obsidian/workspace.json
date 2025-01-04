@@ -11,10 +11,14 @@
             "id": "7246336782fe4e8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10. 🌏Atlas/101. 🗺Maps/🧭신앙.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "🧭신앙"
             }
           }
         ]
