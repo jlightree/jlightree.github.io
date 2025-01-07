@@ -24,6 +24,7 @@ export default (() => {
       <head>
         <meta name="google-site-verification" content="mV-mPszJFU3hhjCG8i2vfwt7pUNecWktxzBav4fnE-Q" />
         <meta name="google-site-verification" content="nBZQfLBcBxxXtDunG9ARWaiBQEFJZyIHzPZ0wcypOYA" />
+        <meta name="naver-site-verification" content="4407d4fab264fedea6deaea5c9f8b36ae51e45ef" />
         <title>{title}</title>
         <meta charSet="utf-8" />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
