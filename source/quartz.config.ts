@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "주빛나무 블로그",
-    pageTitleSuffix: "test",
+    pageTitleSuffix: <meta name="google-site-verification" content="mV-mPszJFU3hhjCG8i2vfwt7pUNecWktxzBav4fnE-Q" />,
     enableSPA: true,
     enablePopovers: true,
     analytics: {
